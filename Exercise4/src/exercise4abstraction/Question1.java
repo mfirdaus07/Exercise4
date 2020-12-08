@@ -1,7 +1,6 @@
 package exercise4abstraction;
 
 /*Question 1
-*
  *author Mohammad Firdaus 275459
 */
 
